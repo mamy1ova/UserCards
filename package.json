@@ -1,7 +1,7 @@
 {
   "name": "session-04",
   "version": "0.1.0",
-  "homepage": "http://mamy1ova.github.io/UserCards",
+  "homepage": "https://github.com/mamy1ova/UserCards.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

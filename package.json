@@ -1,7 +1,10 @@
 {
   "name": "session-04",
   "version": "0.1.0",
+<<<<<<< HEAD
 "homepage": "http://mamy1ova.github.io/UserCards",
+=======
+>>>>>>> f9b478c277ea5ffe9afc2128c95e41506c41f624
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -15,11 +18,16 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   
+=======
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+>>>>>>> f9b478c277ea5ffe9afc2128c95e41506c41f624
   },
   "eslintConfig": {
     "extends": [
